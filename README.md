@@ -8,5 +8,5 @@ Algorithmes d'optimisation d'achat d'action
 python bruteforce.py data.csv
 
 ##### Agorithme optimisé
-python optimized.py dataset
+python optimized.py data.csv
 
