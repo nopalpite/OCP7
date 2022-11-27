@@ -1,9 +1,10 @@
 import csv
 import time
+import sys
 
 CURRENCY = "€"
 STACK = int(500)
-CSV_FILE = "data.csv"
+CSV_FILE = sys.argv[1]
 START = time.time()
 
 
